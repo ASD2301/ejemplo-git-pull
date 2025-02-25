@@ -1,2 +1,2 @@
-# repositorio para usar git-pull
+# repositorio para usar git-pull (freeCodeCamp)
 estamos usando pull
